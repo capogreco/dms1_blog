@@ -8,8 +8,7 @@ allow_math: true
 
 # Welcome to 2024 Sem 2 DMS1!  ^~^
 
-![a drippy lemon](logo.svg)
-
+![red rmit logo, with blue background](rmit_logo.png)
 ^ images are written like this: `![description](file_path/file_name.png)`
 
 ## This is h2
