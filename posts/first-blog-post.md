@@ -1,12 +1,12 @@
 ---
-title: This is an example blog post!
+title: Welcome! Welcome! Welcome!
 published_at: 2022-11-04
 snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
 ---
 
-# Welcome to 2024 Sem 2 DMS1!  ^~^
+# Welcome to 2024 Sem 2 DMS1: 1:30 - 4:30 class!
 
 ![red rmit logo, with blue background](rmit_logo.png)
 ^ images are written like this: `![description](file_path/file_name.png)`
