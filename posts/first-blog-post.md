@@ -8,6 +8,8 @@ allow_math: true
 
 # Welcome to 2024 Sem 2 DMS1: 1:30 - 4:30 class!
 
+![whiteboard from first class](whiteboard.jpg)
+
 ![red rmit logo, with blue background](rmit_logo.png)
 ^ images are written like this: `![description](file_path/file_name.png)`
 
